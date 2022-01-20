@@ -1,4 +1,4 @@
-# the-sparks-foundation
+# The-Sparks-Foundation
 
 **Task 1: Supervised Machine Learning**
 
