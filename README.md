@@ -8,9 +8,9 @@ Task: Predict the percentage of marks of a student based on the number of study 
 
 Language: Python
 
-IDE used: Jupyter Notebook
+IDE used: Google Colab
 
-Libraries Used: numpy, matplotlib, pandas, seaborn, scikit learn
+Libraries Used: numpy, matplotlib, pandas, scikit learn
 
 Dataset Used: Student Scores dataset
 
